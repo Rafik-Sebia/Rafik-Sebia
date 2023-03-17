@@ -22,12 +22,12 @@ In my portfolio, you can find my projects on data analytics.
 
 ### :clipboard: My Certifications
 
-   * [Codecademy Data Analyst Professional Certificate](https://www.codecademy.com/profiles/rafiksebia8243738496/certificates/7dec503730a448c8b22bb251ada403f3)
+   * Codecademy Data Analyst Professional Certificate: [Link](https://www.codecademy.com/profiles/rafiksebia8243738496/certificates/7dec503730a448c8b22bb251ada403f3)
 
 ### :raised_hands: Connect with Me
 
-   * [Linkedin](https://www.linkedin.com/in/rafik-sebia-44837b24a/)
-   * [Kaggle](https://www.kaggle.com/destroyerkamikaz)
+   * Linkedin: [Link](https://www.linkedin.com/in/rafik-sebia-44837b24a/)
+   * Kaggle: [Link](https://www.kaggle.com/destroyerkamikaz)
 
 
 <!--
