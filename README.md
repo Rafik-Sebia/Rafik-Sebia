@@ -4,7 +4,7 @@ Hi there! I'm Rafik, a self-taught data analyst from Algeria. Former small busin
 
 ### 📚 Projects 📚
 
-In my portfolio, you can find my projects on data analytics.
+In my portfolio, you can find my projects: [Link](https://github.com/Rafik-Sebia/Portfolio-Guide/blob/main/README.md) on data analytics.
 
 ### 💡 My Skills
 
