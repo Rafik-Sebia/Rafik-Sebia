@@ -1,6 +1,6 @@
 ## Introducing Myself 👋
 
-Hi there! I'm Rafik, a self-taught data analyst from Algeria. Former small business owner, I transitioned to data in 2021 and have been teaching myself SQL, Python, and Tableau ever since.
+Hi there! I'm Rafik, a self-taught data analyst from Algeria. Former small business owner, I transitioned to data analysis in 2021 and have been teaching myself SQL, Python, and Tableau ever since.
 
 ### 📚 Projects 📚
 
